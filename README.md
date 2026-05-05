@@ -1,38 +1,79 @@
-👋 Olá, eu sou o Victor Lobo
+# 👋 Hello, I'm Victor Lobo
 
-💻 Desenvolvedor Back-End focado em Python e construção de APIs REST
-🚀 Foco em sistemas escaláveis, organizados e orientados a boas práticas
+Backend Engineer focused on scalable APIs, automation and software architecture.
 
-🧠 Stack Principal
-Python (FastAPI)
-SQL (PostgreSQL / SQLite)
-SQLAlchemy
-Git & GitHub
-Docker (em evolução)
-📌 Projetos em Destaque
-🔹 Backend Portfolio API
+---
 
-API REST completa com autenticação JWT, gerenciamento de usuários, produtos e pedidos.
+## 🚀 Tech Stack
 
-✔ Arquitetura organizada
-✔ Boas práticas (Clean Code)
-✔ Estrutura escalável
+### Backend
+- Python
+- FastAPI
+- Node.js
+- REST APIs
+- SQLAlchemy
 
-👉 Em desenvolvimento contínuo
+### Database
+- PostgreSQL
+- Oracle SQL
+- MySQL
 
-🔹 Sistema de Pedidos (em evolução)
+### DevOps & Tools
+- Docker
+- Git
+- GitHub Actions
+- Linux
+- CI/CD
 
-Sistema inspirado em fluxo real de restaurante
-(comunicação entre pedidos, cozinha e controle)
+### Architecture & Practices
+- Clean Architecture
+- JWT Authentication
+- API Integration
+- Automation
+- Webhooks
+- Scalable Systems
 
-📈 O que estou buscando
+---
 
-🎯 Primeira oportunidade como Desenvolvedor Back-End Jr
-🎯 Projetos onde eu possa evoluir e gerar impacto real
+## 📌 Featured Projects
 
-📫 Contato
-LinkedIn: www.linkedin.com/in/victor-lobo-prates-196970233
-Email: vitur6mobile@gmail.com
-Localização: Florianópolis - SC (ou remoto)
+### 🔹 AI Backend Copilot
+AI-powered backend platform focused on:
+- code analysis
+- architecture validation
+- performance insights
+- automated backend workflows
 
-⭐ Sempre evoluindo e construindo projetos reais
+### 🔹 Enterprise REST API
+Professional REST API with:
+- JWT authentication
+- user management
+- products/orders
+- admin dashboard
+- scalable architecture
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=v1tux&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tux&layout=compact&theme=github_dark)
+
+---
+
+## 🌎 Connect with me
+
+- LinkedIn: https://linkedin.com/in/victor-lobo-prates-196970233
+- GitHub: https://github.com/v1tux
+
+---
+
+## 💡 Current Focus
+
+- Backend Engineering
+- FastAPI Ecosystem
+- Software Architecture
+- Scalable APIs
+- Automation & Integrations
+- DevOps and CI/CD
