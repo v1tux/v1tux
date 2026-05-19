@@ -42,14 +42,10 @@ AI-powered backend platform built with FastAPI, PostgreSQL, Docker and JWT Authe
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="left">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=v1tux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=v1tux&theme=tokyonight&hide_border=true"/>
-
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=v1tux&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
