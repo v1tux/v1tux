@@ -52,15 +52,13 @@ AI-powered backend platform focused on repository analysis, developer workflow a
 
 ---
 
-📸 Preview
+## 📸 Preview
 
-Swagger Documentation
-
-<img width="100%" src="COLE_AQUI_SUA_IMAGEM_SWAGGER" />Dashboard
-
-<img width="100%" src="COLE_AQUI_SUA_IMAGEM_DASHBOARD" />Docker Running
-
-<img width="100%" src="COLE_AQUI_SUA_IMAGEM_DOCKER" />---
+Real screenshots coming soon:
+- Swagger/OpenAPI documentation
+- Dashboard interface
+- Docker Compose running
+- Authentication flow
 
 📌 Featured Projects
 
@@ -80,7 +78,9 @@ Personal backend architecture project focused on APIs, authentication and scalab
 
 📊 GitHub Stats
 
-<p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=v1tux&show_icons=true&theme=github_dark&hide_border=true" /><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tux&layout=compact&theme=github_dark&hide_border=true" /></p>---
+<p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=v1tux&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tux&layout=compact&theme=github_dark&hide_border=true"/></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=v1tux&theme=github-dark&hide_border=true"/></p>
 
 🌐 Connect
 
