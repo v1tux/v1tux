@@ -1,45 +1,91 @@
-# Victor Lobo 👋 
+👨‍💻 Victor Lobo
 
-Backend Engineer focused on building scalable, secure and high-performance systems.
+Backend Engineer focused on scalable APIs, automation and high-performance systems.
 
-Passionate about APIs, software architecture, automation and clean back-end development.
----
+Passionate about backend architecture, clean code, integrations and building real-world solutions through technology.
 
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,fastapi,postgres,docker,git,linux,vscode" />
-</p>
+Currently building DevFlow AI — a platform focused on repository analysis, workflow automation and developer productivity.
 
 ---
 
-## ⚙️ Focus
+🚀 Tech Stack
 
-- REST APIs
-- CI/CD
-- Docker
-- Performance
-- Scalability
+<p align="left"><img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI/CD-111111?style=for-the-badge&logo=githubactions" /></p>---
+
+⚙️ Current Focus
+
+- REST API Development
+- Backend Architecture
+- Docker & Containers
+- Authentication & Security
+- Performance Optimization
+- Automation & Integrations
 - Clean Architecture
+- Scalable Systems
 
 ---
 
-## 📌 Featured Projects
+🚀 Featured Project
 
-🔹 MesaFlow API  
-🔹 DevFlow IA  
-🔹 Backend Portfolio API  
+DevFlow AI
+
+AI-powered backend platform focused on repository analysis, developer workflow automation and scalable architecture.
+
+🔥 Features
+
+- JWT Authentication
+- REST API with FastAPI
+- Docker & Docker Compose
+- PostgreSQL Integration
+- Repository Analysis
+- Automated Reports
+- Swagger/OpenAPI Documentation
+- Modular Backend Architecture
 
 ---
 
-## 🌐 Connect
+📸 Preview
 
-<p align="left">
-  <a href="https://github.com/v1tux">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/victor-lobo-prates-196970233">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+Swagger Documentation
+
+<img width="100%" src="COLE_AQUI_SUA_IMAGEM_SWAGGER" />Dashboard
+
+<img width="100%" src="COLE_AQUI_SUA_IMAGEM_DASHBOARD" />Docker Running
+
+<img width="100%" src="COLE_AQUI_SUA_IMAGEM_DOCKER" />---
+
+📌 Featured Projects
+
+🔹 DevFlow AI
+
+Backend platform focused on automation, repository analysis and developer productivity.
+
+🔹 MesaFlow API
+
+Restaurant management API with stock control, orders and operational workflow.
+
+🔹 Backend Portfolio API
+
+Personal backend architecture project focused on APIs, authentication and scalability.
+
+---
+
+📊 GitHub Stats
+
+<p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=v1tux&show_icons=true&theme=github_dark&hide_border=true" /><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tux&layout=compact&theme=github_dark&hide_border=true" /></p>---
+
+🌐 Connect
+
+<p align="left"><a href="https://linkedin.com/in/victor-lobo-prates-196970233">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
+</a><a href="mailto:vitur6mobile@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" />
+</a></p>
